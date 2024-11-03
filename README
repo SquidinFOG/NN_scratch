@@ -1,0 +1,2 @@
+Simple implementation of a neural network in python from scratch using only numpy. (torch is still used to import MNIST dataset)
+
